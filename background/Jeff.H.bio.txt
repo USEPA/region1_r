@@ -1,4 +1,0 @@
-Jeff Hollister is a Ph.D. research ecologist at EPA's ORD laboratory
-in Narragansett, Rhode Island (Atlantic Ecology Division). He has
-extensive educational and professional experience using R, starting in
-... .

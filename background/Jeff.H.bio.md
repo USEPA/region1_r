@@ -1,3 +1,0 @@
-Jeff Hollister is a Ph.D. research ecologist at EPA's ORD laboratory
-in Narragansett, Rhode Island (Atlantic Ecology Division). He has
-nearly 15 years experience using R in the analysis of environmental and ecological data.  His current research focus is on how nutrients drive risk of cyanobacterial blooms in lakes and ponds. A unifying theme to his research is using Open Science (Open Access, Open Source, and Open Data) to benefit environmental science
